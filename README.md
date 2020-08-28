@@ -8,4 +8,4 @@
 	- openpyxl (optional)
 
 ## Test_internshala_Interns_Entrayan_Edu_tech folder
-	- Contains the question &  solution for the Round1 assessment
+- Contains the question &  solution for the Round1 assessment
