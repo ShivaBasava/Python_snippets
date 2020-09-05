@@ -11,6 +11,6 @@
 - Contains the question &  solution for the Round1 assessment
 
 ## Leetcode
-- Contains the solution for problems solved at Leetcode contest/Challengs.
+- Contains the solution for problems solved at Leetcode contest / Challenges.
   - September LeetCoding Challenge
     - Contains the solution for September LeetCoding Challenge
