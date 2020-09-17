@@ -15,3 +15,8 @@
 
 - Day 4: 
   - Solution: Day4_Maximum_Product_Subarray.py
+
+## Week 3: September 15th - September 21st
+
+- Day 3:
+  - Solution: Day3_Robot_Bounded_Circle.py
