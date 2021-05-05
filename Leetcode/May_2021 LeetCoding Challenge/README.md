@@ -4,3 +4,5 @@
 
 - Day 3:
   - Solution: Day3_Running Sum of 1d Array.py
+- Day 4:
+  - Solution: Day4_Non-decreasing Array.py
